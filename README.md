@@ -5,7 +5,7 @@ Undergraduate Computer Science student at the University of Texas at Austin, pur
 
 ---
 
-### 🔭 Currently
+### 🔭 Currently...
 - 🎓 Studying CS + Business Fndtns + Stats & Data Sci @ UT Austin
 - 💼 Interning @ TRS (Summer 2026)
 - 🔍 Open to Summer 2027 Internships
